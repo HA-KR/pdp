@@ -128,7 +128,7 @@ The equivalent JSON with column breakpoint widths is,
 ```json
 {
   "type": "row",
-  children: [
+  "children": [
     {
       "type": "column",
       "width": {
